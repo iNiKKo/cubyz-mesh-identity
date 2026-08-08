@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-08T22:26:32.59578362Z",
+  "expires_at": "2026-09-07T22:26:32.59578362Z",
+  "bootstrap_peers": [
+    "/ip6/2a00:23c7:82ad:4901::ee4/tcp/4001/p2p/12D3KooWLa2GePat1DSrDWgLUCvq5kzJfgCcNtFG4MS4FxxYWCWi"
+  ],
+  "relay_peers": [],
+  "signer": "xlyfsik6oKZCIlTzHhduzzGUV5nt0W8AfYiEx2-ldfI",
+  "signature": "8NuHNpKATm5Z4xC1vyKPYrsUyL3zYeTaJ8lcMiV8x9FKBtIxAkmAmpG_qMEHIF4Plsn1u7vdKfrqVTE0MpJ5CA"
+}
